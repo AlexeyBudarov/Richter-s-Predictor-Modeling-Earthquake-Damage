@@ -6,3 +6,6 @@
 Выбор моделей. Base pipline
 ![image](https://github.com/user-attachments/assets/ec5a8550-6b19-49d7-92c7-57b266c614e8)
 
+
+
+Previe code in Driven_data.ipynb
